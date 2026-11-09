@@ -1,0 +1,1 @@
+Plaats hier aflevering-01.jpg t/m aflevering-30.jpg uit het Grappenmaker-afbeeldingenpakket. De app gebruikt deze bestanden als visuele zoekgrappen.
