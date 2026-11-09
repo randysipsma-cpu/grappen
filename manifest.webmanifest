@@ -1,1 +1,10 @@
-{"name":"NIKS AAN DE HAND! – 30 cartoon grappen","short_name":"Niks Aan De Hand","start_url":"./","scope":"./","display":"standalone","background_color":"#f5eee1","theme_color":"#183544","lang":"nl"}
+{
+  "name": "Grappenmaker – Ongelimiteerd het slechtste naar bovenhalen",
+  "short_name": "Grappenmaker",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5eee1",
+  "theme_color": "#183544",
+  "lang": "nl"
+}
